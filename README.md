@@ -14,4 +14,4 @@ Home Page
 Report Page
 
 ## APK
-APK file is available in the apk folder or via Google Drive.
+APK file is available in the file.
