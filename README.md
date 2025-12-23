@@ -1,2 +1,17 @@
-# civic_connect_sih
-Civics Connect is a Smart India Hackathon project designed to improve civic engagement by allowing citizens to report issues, access services, and connect with authorities through a mobile application.
+# Civics Connect – SIH Project
+
+## About
+Civics Connect is a Smart India Hackathon project that allows citizens to report civic issues and connect with authorities using a mobile application.
+
+## Features
+- Issue reporting
+- Location-based complaints
+- User-friendly interface
+- Emergency and safety features
+
+## Screenshots
+Home Page
+Report Page
+
+## APK
+APK file is available in the apk folder or via Google Drive.
